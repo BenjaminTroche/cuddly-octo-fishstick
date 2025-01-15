@@ -4178,15 +4178,15 @@
     },
     "done": true
   },
-  "doggytalents:recipes/decorations/leather_jacket": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_leather": "2025-01-05 19:25:24 +0000"
+      "double_trouble_0": "2025-01-05 18:46:41 +0000"
     },
     "done": true
   },
-  "doggytalents:recipes/decorations/plague_doctor_mask": {
+  "doggytalents:recipes/tools/feathered_mantle": {
     "criteria": {
-      "has_leather": "2025-01-05 19:25:24 +0000"
+      "has_feather": "2025-01-05 18:56:35 +0000"
     },
     "done": true
   },
@@ -4202,45 +4202,15 @@
     },
     "done": true
   },
-  "doggytalents:recipes/tools/treat_bag": {
-    "criteria": {
-      "has_leather": "2025-01-05 19:25:24 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/tantan_cape": {
-    "criteria": {
-      "has_leather": "2025-01-05 19:25:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-01-05 19:18:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-05 19:12:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-01-05 19:18:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-05 19:12:39 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/tools/feathered_mantle": {
-    "criteria": {
-      "has_feather": "2025-01-05 18:56:35 +0000"
     },
     "done": true
   },
@@ -4262,12 +4232,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-01-05 18:46:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-01-05 19:12:39 +0000"
@@ -4280,21 +4244,57 @@
     },
     "done": true
   },
-  "doggytalents:recipes/decorations/cape_coloured": {
-    "criteria": {
-      "has_leather": "2025-01-05 19:25:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-01-05 19:12:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-01-05 19:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-01-05 19:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-01-05 19:18:50 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-01-05 19:25:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-01-05 19:25:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-01-05 19:25:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-01-05 19:25:24 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-01-05 19:25:24 +0000"
     },
     "done": true
   },
