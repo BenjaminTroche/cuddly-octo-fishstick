@@ -3604,3 +3604,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [15Jan2025 16:57:36.515] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@4160429a for service interface com.blamejared.clumps.platform.IEventHelper
 [15Jan2025 16:57:36.515] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@28df93a for service interface com.blamejared.clumps.platform.IPlatformHelper
 [15Jan2025 16:58:05.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja moved too quickly! -7.832603748242946,0.0,-6.808598598672688
+[15Jan2025 17:02:00.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 17:02:00.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 17:02:56.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja moved too quickly! -5.890854450295137,0.0,-8.824068375263096
+[15Jan2025 17:07:00.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 17:07:00.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
